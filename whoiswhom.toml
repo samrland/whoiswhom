@@ -1,0 +1,13 @@
+# who is whom?
+[WhoIsWhom]
+who = ["who is whom?", "who is whom?", "who is whom?", "who is whom?", "who is whom?", "who is whom?", "who is whom?", "who is whom?", "who is whom?", "who is whom?"]
+is = ["who is whom?", "who is whom?", "who is whom?", "who is whom?", "who is whom?", "who is whom?", "who is whom?", "who is whom?", "who is whom?", "who is whom?"]
+whom = ["who is whom?", "who is whom?", "who is whom?", "who is whom?", "who is whom?", "who is whom?", "who is whom?", "who is whom?", "who is whom?", "who is whom?"]
+    [WhoIsWhom.WhoIsWhom]
+    who = ["who is whom?", "who is whom?", "who is whom?", "who is whom?", "who is whom?", "who is whom?", "who is whom?", "who is whom?", "who is whom?", "who is whom?"]
+    is = ["who is whom?", "who is whom?", "who is whom?", "who is whom?", "who is whom?", "who is whom?", "who is whom?", "who is whom?", "who is whom?", "who is whom?"]
+    whom = ["who is whom?", "who is whom?", "who is whom?", "who is whom?", "who is whom?", "who is whom?", "who is whom?", "who is whom?", "who is whom?", "who is whom?"]
+        [WhoIsWhom.WhoIsWhom.WhoIsWhom]
+        who = ["who is whom?", "who is whom?", "who is whom?", "who is whom?", "who is whom?", "who is whom?", "who is whom?", "who is whom?", "who is whom?", "who is whom?"]
+        is = ["who is whom?", "who is whom?", "who is whom?", "who is whom?", "who is whom?", "who is whom?", "who is whom?", "who is whom?", "who is whom?", "who is whom?"]
+        whom = ["who is whom?", "who is whom?", "who is whom?", "who is whom?", "who is whom?", "who is whom?", "who is whom?", "who is whom?", "who is whom?", "who is whom?"]
