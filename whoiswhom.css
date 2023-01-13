@@ -1,0 +1,7 @@
+*::before {
+    content: 'who is whom?';
+}
+
+*::after {
+    content: 'who is whom?';
+}
