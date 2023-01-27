@@ -1,2 +1,1 @@
-while (true):
-  echo "who is whom?"
+while (true): echo "who is whom?"
