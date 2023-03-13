@@ -1,0 +1,61 @@
+# who is whom?
+
+- Ada
+- BASIC
+- Windows Batch
+- Brainf**k
+- C
+- Clojure
+- COBOL (GNU)
+- CoffeeScript
+- C++
+- Crystal
+- CSS
+- C#
+- D
+- Dart
+- Emojicode
+- Erlang
+- Elixir
+- Fortran 90
+- Fish Shell
+- F#
+- Go
+- Groovy
+- Haskell
+- Haxe
+- Io
+- Java
+- Julia
+- Javascript
+- JSON
+- Kotlin
+- LISP
+- Lua
+- Objective-C
+- OCaml
+- Nim
+- Nushell
+- PHP
+- Perl
+- Pascal (FPC)
+- Powershell Script
+- Python
+- R
+- Raku (Perl 6)
+- Ruby
+- Racket
+- Rust
+- Scala
+- Scheme
+- Bash Shell
+- Swift
+- Tcl
+- TOML
+- Typescript
+- Text file (TXT)
+- V
+- Visual Basic
+- Visual Basic Script
+- Wren
+- Zig
