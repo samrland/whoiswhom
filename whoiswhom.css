@@ -1,7 +1,13 @@
+* {
+    background-image: url('https://camo.githubusercontent.com/6a7e561462c03812fbe0e9f158259d1b0065c0ec271571f0e33fe91f8e6f41d8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f77686f25323069732d77686f6d2533462d626c7565') !important;
+}
+
 *::before {
-    content: 'who is whom?';
+    content: 'who is whom?' !important;
+    background-image: url('https://camo.githubusercontent.com/6a7e561462c03812fbe0e9f158259d1b0065c0ec271571f0e33fe91f8e6f41d8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f77686f25323069732d77686f6d2533462d626c7565') !important;
 }
 
 *::after {
-    content: 'who is whom?';
+    content: 'who is whom?' !important;
+    background-image: url('https://camo.githubusercontent.com/6a7e561462c03812fbe0e9f158259d1b0065c0ec271571f0e33fe91f8e6f41d8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f77686f25323069732d77686f6d2533462d626c7565') !important;
 }
